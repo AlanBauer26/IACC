@@ -1,3 +1,3 @@
 # IACC
 
-Alterando nome da foto!
+Uso na faculdade para aprender sobre Git e GitHub
